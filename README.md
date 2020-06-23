@@ -1,25 +1,21 @@
-<!-- 基础架构 集成了 iview+echarts+vue-quill-editor 按需引入-->
-# iview-demo
+# 基础架构 集成了 iview+echarts+vue-quill-editor 按需引入
 
-## Project setup
+## 依赖安装
 ```
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+### 本地调试/热更新
 ```
 yarn serve
 ```
 
-### Compiles and minifies for production
+### 打包发布
 ```
 yarn build
 ```
 
-### Lints and fixes files
+### 语法检测
 ```
 yarn lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
